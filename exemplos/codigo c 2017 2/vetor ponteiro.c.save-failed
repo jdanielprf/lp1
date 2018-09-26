@@ -1,0 +1,8 @@
+int main(){
+
+    int vet[]={1,2,3};
+    printf("%p\n",vet);
+    printf("%p\n",&vet[0]);
+
+    return 0;
+}

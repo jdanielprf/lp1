@@ -1,0 +1,11 @@
+int main(){
+    float mat[3][2];
+    int linha,coluna;
+    for(linha=0;linha<=2;linha++){
+        for(coluna=0;coluna<=3;coluna++){
+            printf("linha %d coluna %d\n",linha,coluna);
+        }
+    }
+
+    return 0;
+}

@@ -1,0 +1,11 @@
+int main(){
+    int x,y, *pont;
+
+    printf("%p\n",pont);
+    pont=malloc(sizeof(int));
+    *pont=10;
+    printf("%p\n",pont);
+
+
+    return 0;
+}

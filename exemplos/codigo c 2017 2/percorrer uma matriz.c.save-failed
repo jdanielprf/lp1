@@ -1,0 +1,6 @@
+int main(){
+    float mat[3][2];
+
+
+    return 0;
+}
